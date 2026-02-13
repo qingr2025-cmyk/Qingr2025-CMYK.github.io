@@ -27,4 +27,3 @@
 
 ---
 ![GitHub top language](https://img.shields.io/github/languages/top/qingr2025-cmyk/qingr2025-cmyk.github.io)
-![GitHub top language](https://img.shields.io/github/languages/top/qingr2025-cmyk/qingr2025-cmyk.github.io)
