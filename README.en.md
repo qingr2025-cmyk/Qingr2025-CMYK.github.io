@@ -23,3 +23,6 @@ A beautifully designed personal web portal for downloading New Year wallpapers, 
 
 ---
 💌 **Contact Me**: [qingr2025@gmail.com](mailto:qingr2025@gmail.com)
+
+---
+![GitHub top language](https://img.shields.io/github/languages/top/qingr2025-cmyk/qingr2025-cmyk.github.io)
